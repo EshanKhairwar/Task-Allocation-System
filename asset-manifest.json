@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task-Allocation-System/static/css/main.d3d79b46.css",
+    "main.js": "/Task-Allocation-System/static/js/main.da349d82.js",
+    "index.html": "/Task-Allocation-System/index.html",
+    "main.d3d79b46.css.map": "/Task-Allocation-System/static/css/main.d3d79b46.css.map",
+    "main.da349d82.js.map": "/Task-Allocation-System/static/js/main.da349d82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3d79b46.css",
+    "static/js/main.da349d82.js"
+  ]
+}
